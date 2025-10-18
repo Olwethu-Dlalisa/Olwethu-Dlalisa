@@ -16,10 +16,6 @@ I'm a Junior Data Analyst passionate about transforming data into valuable insig
 
 ---
 
-### 🛠️ Languages and Tools
 
-<p align="left">
-  <img src="https://www.flaticon.com/free-icon/excel_732220?term=excel&page=1&position=1&origin=search&related_id=732220" alt="Excel" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" alt="Power BI" width="45" height="45"/>
-</p>
+
+
