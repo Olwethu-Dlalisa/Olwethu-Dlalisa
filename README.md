@@ -14,4 +14,7 @@ I'm a Junior Data Analyst passionate about transforming data into valuable insig
 💻 Write SQL queries to extract and manage data efficiently<br/>
 🚀 Share projects that reflect real-world data challenges and solutions<br/>
 
-#
+---
+
+### 🧰 Languages and Tools
+
