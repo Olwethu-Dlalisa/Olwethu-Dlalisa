@@ -2,7 +2,7 @@
 
 I'm a Junior Data Analyst passionate about transforming data into valuable insights that support data-driven decisions. I enjoy working with Excel, SQL, and Power BI, and I’m continuously improving my analytical and visualization skills through hands-on projects.
 
-🎓 Bachelor of Computer and Information Sciences
+🎓 Bachelor of Computer and Information Sciences<br/>
 📍 Based in Durban, South Africa
 
 ---
