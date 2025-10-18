@@ -1,4 +1,4 @@
-#👋Hi, I'm Olwethu Dlalisa
+##👋Hi, I'm Olwethu Dlalisa
 
 I'm a Junior Data Analyst passionate about transforming data into valuable insights that support data-driven decisions. I enjoy working with Excel, SQL, and Power BI, and I’m continuously improving my analytical and visualization skills through hands-on projects.
 
